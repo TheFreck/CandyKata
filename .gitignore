@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CandyKata/bin/Debug/net8.0
+/CandyKata/obj
+/CandyKata.Specs/bin/Debug/net8.0
+/CandyKata.Specs/obj
+/.vs/CandyKata/v17
+/.vs/CandyKata
